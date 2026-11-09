@@ -39,6 +39,7 @@ public class ShapeButton
     private Shape shape;
 
     //~ Constructors -------------------------------------------------------------------------------
+
     public ShapeButton ()
     {
         super();
@@ -52,6 +53,7 @@ public class ShapeButton
     }
 
     //~ Methods ------------------------------------------------------------------------------------
+
     public Shape getShape ()
     {
         return shape;
